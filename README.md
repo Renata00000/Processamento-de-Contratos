@@ -1,4 +1,4 @@
-# Automação de Processamento de Contratos
+# Automação de Processamento de Contratos.
 
 Este projeto tem como objetivo automatizar o processamento de contratos de uma empresa. O processamento de um contrato envolve a geração de parcelas a serem pagas, com base no número de meses desejado.
 
